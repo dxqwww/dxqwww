@@ -10,4 +10,5 @@ currently RE, doing a lot of code writing and occasional pentesting. I work main
 >
 
 if you for some reason want to contant with me: 
+
 Telegarm: https://t.me/dxqwww
